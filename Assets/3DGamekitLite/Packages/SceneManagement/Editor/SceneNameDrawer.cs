@@ -32,7 +32,6 @@ namespace Gamekit3D
             for (int i = 0; i < m_SceneNames.Length; i++)
             {
                 string path = scenes[i].path;
-
                 if (string.IsNullOrEmpty(path))
                 {
                     m_SceneNames[i] = new GUIContent("INVALID. SCENE WAS DELETED. OPEN BUILD SETTINGS");
