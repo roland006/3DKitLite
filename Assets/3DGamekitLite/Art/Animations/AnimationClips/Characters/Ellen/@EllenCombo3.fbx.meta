@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: d0d401bb3fc68574296f7ff69e81546c
 ModelImporter:
-  serializedVersion: 20200
+  serializedVersion: 20101
   internalIDToNameTable:
   - first:
       1: 100000
@@ -662,7 +662,7 @@ ModelImporter:
     second: Ellen_Body
   - first:
       74: 7400000
-    second: EllenCombo_3
+    second: Ellen_Combo3
   - first:
       74: 7400002
     second: EllenCombo3Exit
@@ -734,7 +734,7 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: EllenCombo_3
+      name: Ellen_Combo3
       takeName: Take 001
       internalID: 0
       firstFrame: 2
@@ -1059,15 +1059,14 @@ ModelImporter:
   animationType: 2
   humanoidOversampling: 1
   avatarSetup: 2
-  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
   additionalBone: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
 AssetOrigin:
   serializedVersion: 1
-  productId: 135162
-  packageName: 3D Game Kit Lite
-  packageVersion: 1.8.2
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
   assetPath: Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenCombo3.fbx
-  uploadId: 462213
+  uploadId: 604606
