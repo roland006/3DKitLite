@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: ae9ad6fb845fa9841918e44e215ef2f4
 ModelImporter:
-  serializedVersion: 20200
+  serializedVersion: 20101
   internalIDToNameTable:
   - first:
       1: 100000
@@ -620,7 +620,7 @@ ModelImporter:
     second: SpitterMesh
   - first:
       74: 7400000
-    second: Spotted
+    second: Spitter_Spotted
   - first:
       74: 7400002
     second: Spitter_Spit
@@ -659,7 +659,7 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Spotted
+      name: Spitter_Spotted
       takeName: Take 001
       internalID: 0
       firstFrame: 1
@@ -788,15 +788,14 @@ ModelImporter:
   animationType: 2
   humanoidOversampling: 1
   avatarSetup: 2
-  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
   additionalBone: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
 AssetOrigin:
   serializedVersion: 1
-  productId: 135162
-  packageName: 3D Game Kit Lite
-  packageVersion: 1.8.2
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
   assetPath: Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Enemies/Spitter/@SpitterSpit.fbx
-  uploadId: 462213
+  uploadId: 604606

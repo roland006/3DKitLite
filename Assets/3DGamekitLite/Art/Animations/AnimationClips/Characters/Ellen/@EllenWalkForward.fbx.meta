@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 9d703e84815204b499c34db7f9ec5cd9
 ModelImporter:
-  serializedVersion: 20200
+  serializedVersion: 20101
   internalIDToNameTable:
   - first:
       1: 100000
@@ -662,28 +662,25 @@ ModelImporter:
     second: Ellen_Body
   - first:
       74: 7400000
-    second: Ellen_Walk_Forward
+    second: Ellen_WalkForward
   - first:
       74: 7400002
-    second: Ellen_Walk_Forward_45_Left
+    second: Ellen_WalkForward45Left
   - first:
       74: 7400004
-    second: EllenWalkForwardLeft
+    second: Ellen_WalkForwardLeft
   - first:
       74: 7400006
-    second: Ellen_Walk_Forward_45_Right
+    second: Ellen_WalkForward45Right
   - first:
       74: 7400008
-    second: Ellen_Walk_Forward_Right
+    second: Ellen_WalkForwardRight
   - first:
       95: 9500000
     second: //RootNode
   - first:
       137: 13700000
     second: Ellen_Body
-  - first:
-      74: -9113609222779754796
-    second: Ellen_Walk_Forward_Left
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -743,7 +740,7 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Ellen_Walk_Forward_Left
+      name: Ellen_WalkForwardLeft
       takeName: Take 001
       internalID: 0
       firstFrame: 0
@@ -1004,7 +1001,7 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Ellen_Walk_Forward_45_Left
+      name: Ellen_WalkForward45Left
       takeName: Take 001
       internalID: 0
       firstFrame: 0
@@ -1251,7 +1248,7 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Ellen_Walk_Forward
+      name: Ellen_WalkForward
       takeName: Take 001
       internalID: 0
       firstFrame: 0
@@ -1577,7 +1574,7 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Ellen_Walk_Forward_45_Right
+      name: Ellen_WalkForward45Right
       takeName: Take 001
       internalID: 0
       firstFrame: 0
@@ -1824,7 +1821,7 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Ellen_Walk_Forward_Right
+      name: Ellen_WalkForwardRight
       takeName: Take 001
       internalID: 0
       firstFrame: 0
@@ -2135,15 +2132,14 @@ ModelImporter:
   animationType: 2
   humanoidOversampling: 1
   avatarSetup: 2
-  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
   additionalBone: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
 AssetOrigin:
   serializedVersion: 1
-  productId: 135162
-  packageName: 3D Game Kit Lite
-  packageVersion: 1.8.2
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
   assetPath: Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenWalkForward.fbx
-  uploadId: 462213
+  uploadId: 604606
