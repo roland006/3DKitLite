@@ -4,9 +4,8 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
   m_Name: Ellen_Body_Mat
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: _EMISSION _METALLICGLOSSMAP _NORMALMAP
@@ -20,7 +19,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: adaefba0ebc55c740b6463ea4c44c927, type: 3}
+        m_Texture: {fileID: 2800000, guid: 8349958633769e34bb7496659a03983d, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -36,19 +35,19 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
-        m_Texture: {fileID: 2800000, guid: 5938b7da2ead9604ca769781cd939988, type: 3}
+        m_Texture: {fileID: 2800000, guid: b4b755d5cc444c54ca35b5c41555844e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: b54e8f2ea9ff35e46a2d03a95dc083ed, type: 3}
+        m_Texture: {fileID: 2800000, guid: be0111b341746904d972d1bb2fa0e0a4, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
-        m_Texture: {fileID: 2800000, guid: 74e6fb2a41fd8124c9f909add1690847, type: 3}
+        m_Texture: {fileID: 2800000, guid: d6dbc9ef89fd5b94d889616bfa730aec, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
-        m_Texture: {fileID: 2800000, guid: 7282102f2bd9d224d8ae797f80c6bc1f, type: 3}
+        m_Texture: {fileID: 2800000, guid: 79e9a3fba6241f640b332875f39c332f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:
@@ -60,10 +59,10 @@ Material:
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
-    - _GlossMapScale: 1
-    - _Glossiness: 1
+    - _GlossMapScale: 0.9
+    - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _Metallic: 1
+    - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
@@ -73,5 +72,5 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 0.9528302, g: 0.9528302, b: 0.9528302, a: 1}
-    - _EmissionColor: {r: 0, g: 2.2431374, b: 2.9960785, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 3.7586205, b: 5.0000005, a: 1}

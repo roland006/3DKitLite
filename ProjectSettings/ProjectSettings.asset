@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: b89c6fbe72fbeaf4cb1232e485de465f
+  productGUID: b2941ec94390eaa41a4cba3ceb04be0d
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -79,7 +79,7 @@ PlayerSettings:
   androidMinimumWindowHeight: 300
   androidFullscreenMode: 1
   androidAutoRotationBehavior: 1
-  androidPredictiveBackSupport: 0
+  androidPredictiveBackSupport: 1
   androidApplicationEntry: 2
   defaultIsNativeResolution: 1
   macRetinaSupport: 0
@@ -99,8 +99,8 @@ PlayerSettings:
   resizableWindow: 0
   useMacAppStoreValidation: 0
   macAppStoreCategory: public.app-category.games
-  gpuSkinning: 0
-  meshDeformation: 0
+  gpuSkinning: 1
+  meshDeformation: 2
   xboxPIXTextureCapture: 0
   xboxEnableAvatar: 0
   xboxEnableKinect: 0
@@ -251,7 +251,7 @@ PlayerSettings:
   iOSAutomaticallyDetectAndAddCapabilities: 1
   appleEnableProMotion: 0
   shaderPrecisionModel: 0
-  clonedFromGUID: f435ec5a0d8f64af890b32a23289bc59
+  clonedFromGUID: cf9eead7fc96a42198beb2c24e418479
   templatePackageId: 
   templateDefaultScene: 
   useCustomMainManifest: 0
@@ -320,6 +320,8 @@ PlayerSettings:
     m_GraphicsJobs: 1
   - m_BuildTarget: LuminSupport
     m_GraphicsJobs: 0
+  - m_BuildTarget: CloudRendering
+    m_GraphicsJobs: 1
   - m_BuildTarget: AndroidPlayer
     m_GraphicsJobs: 0
   - m_BuildTarget: WebGLSupport
@@ -336,9 +338,6 @@ PlayerSettings:
   - m_BuildTarget: WindowsStandaloneSupport
     m_APIs: 02000000
     m_Automatic: 1
-  - m_BuildTarget: LinuxStandaloneSupport
-    m_APIs: 15000000
-    m_Automatic: 0
   - m_BuildTarget: iOSSupport
     m_APIs: 10000000
     m_Automatic: 1
@@ -365,7 +364,16 @@ PlayerSettings:
   - serializedVersion: 2
     m_BuildTarget: PS4
     m_EncodingQuality: 1
-  m_BuildTargetGroupHDRCubemapEncodingQuality: []
+  m_BuildTargetGroupHDRCubemapEncodingQuality:
+  - serializedVersion: 2
+    m_BuildTarget: Standalone
+    m_EncodingQuality: 2
+  - serializedVersion: 2
+    m_BuildTarget: XboxOne
+    m_EncodingQuality: 2
+  - serializedVersion: 2
+    m_BuildTarget: PS4
+    m_EncodingQuality: 2
   m_BuildTargetGroupLightmapSettings: []
   m_BuildTargetGroupLoadStoreDebugModeSettings: []
   m_BuildTargetNormalMapEncoding: []
@@ -647,7 +655,7 @@ PlayerSettings:
     PS4: UNITY_POST_PROCESSING_STACK_V2;PROBUILDER_FBX_ENABLED
     PS5: UNITY_POST_PROCESSING_STACK_V2
     QNX: UNITY_POST_PROCESSING_STACK_V2
-    ReservedCFE: UNITY_POST_PROCESSING_STACK_V2
+    Stadia: UNITY_POST_PROCESSING_STACK_V2
     Standalone: UNITY_POST_PROCESSING_STACK_V1;UNITY_POST_PROCESSING_STACK_V2;PROBUILDER_FBX_ENABLED
     VisionOS: UNITY_POST_PROCESSING_STACK_V2
     WebGL: UNITY_POST_PROCESSING_STACK_V2;PROBUILDER_FBX_ENABLED
@@ -663,7 +671,6 @@ PlayerSettings:
   il2cppCodeGeneration: {}
   il2cppStacktraceInformation: {}
   managedStrippingLevel:
-    Android: 1
     EmbeddedLinux: 1
     GameCoreScarlett: 1
     GameCoreXboxOne: 1
@@ -671,8 +678,7 @@ PlayerSettings:
     PS4: 1
     PS5: 1
     QNX: 1
-    ReservedCFE: 1
-    VisionOS: 1
+    Stadia: 1
     WebGL: 1
     Windows Store Apps: 1
     XboxOne: 1
@@ -763,8 +769,8 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   hmiPlayerDataPath: 
-  hmiForceSRGBBlit: 0
-  embeddedLinuxEnableGamepadInput: 0
+  hmiForceSRGBBlit: 1
+  embeddedLinuxEnableGamepadInput: 1
   hmiCpuConfiguration: 
   hmiLogStartupTiming: 0
   qnxGraphicConfPath: 
@@ -775,7 +781,7 @@ PlayerSettings:
   cloudProjectId: 6ee4f0ec-02fb-4b36-b191-6ed73b20c95b
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 3DKitLite
+  projectName: Platformer3DClient
   organizationId: roland006
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
