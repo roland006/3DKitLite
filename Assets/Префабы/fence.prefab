@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7732937807660366781}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: fence
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -47,7 +47,7 @@ GameObject:
   - component: {fileID: 1253403787366876770}
   - component: {fileID: 8779970401251550938}
   - component: {fileID: 9203202378176040078}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: Prism
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -362,7 +362,7 @@ GameObject:
   - component: {fileID: 4563098109616754094}
   - component: {fileID: 7423756249075122156}
   - component: {fileID: 7588056086566620084}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}

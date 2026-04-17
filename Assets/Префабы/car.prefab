@@ -6708,7 +6708,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4746706031356221787}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: car
   m_TagString: Untagged
   m_Icon: {fileID: 0}
