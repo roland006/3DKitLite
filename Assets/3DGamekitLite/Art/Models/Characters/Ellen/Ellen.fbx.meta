@@ -355,7 +355,6 @@ ModelImporter:
     100698: Ellen_TongueProximal
     100700: Ellen_UpperChest
     100702: Ellen_UpperMouth
-    100704: Ellen_Controllers
     400000: Body
     400002: Chest
     400004: ControllerLeftEye
@@ -708,7 +707,6 @@ ModelImporter:
     400698: Ellen_TongueProximal
     400700: Ellen_UpperChest
     400702: Ellen_UpperMouth
-    400704: Ellen_Controllers
     2300000: ControllersLeftHand
     2300002: ControllersLeftIMiddle3
     2300004: ControllersLeftIndex1
@@ -1006,8 +1004,8 @@ ModelImporter:
   assetBundleVariant: 
 AssetOrigin:
   serializedVersion: 1
-  productId: 135162
-  packageName: 3D Game Kit Lite
-  packageVersion: 1.8.2
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
   assetPath: Assets/3DGamekitLite/Art/Models/Characters/Ellen/Ellen.fbx
-  uploadId: 462213
+  uploadId: 604606

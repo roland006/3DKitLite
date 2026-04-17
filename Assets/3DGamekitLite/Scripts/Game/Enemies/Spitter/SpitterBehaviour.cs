@@ -1,10 +1,10 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using Gamekit3D.Message;
-using UnityEditor;
 using UnityEngine;
 using UnityEngine.AI;
 #if UNITY_EDITOR
+using UnityEditor;
 using MessageType = UnityEditor.MessageType;
 #endif
 
@@ -176,7 +176,7 @@ namespace Gamekit3D
 
                 m_Fleeing = controller.SetTarget(fleePoint);
 
-                if (m_Fleeing)
+                if(m_Fleeing)
                     controller.animator.SetBool(hashFleeing, m_Fleeing);
             }
 
