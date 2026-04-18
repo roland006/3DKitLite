@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 6bddc2fb042e88f4190b861b198db1d4
 ModelImporter:
-  serializedVersion: 20200
+  serializedVersion: 20101
   internalIDToNameTable:
   - first:
       1: 100000
@@ -680,7 +680,7 @@ ModelImporter:
     second: Ellen_Body
   - first:
       74: 7400000
-    second: EllenRandomIdle_3
+    second: Ellen_RandomIdle3
   - first:
       95: 9500000
     second: //RootNode
@@ -716,7 +716,7 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: EllenRandomIdle_3
+      name: Ellen_RandomIdle3
       takeName: Take 001
       internalID: 0
       firstFrame: 1
@@ -748,14 +748,14 @@ ModelImporter:
   meshes:
     lODScreenPercentages: []
     globalScale: 1
-    meshCompression: 3
+    meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
-    importVisibility: 0
-    importBlendShapes: 0
-    importCameras: 0
-    importLights: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
     fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
@@ -809,15 +809,14 @@ ModelImporter:
   animationType: 2
   humanoidOversampling: 1
   avatarSetup: 2
-  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
   additionalBone: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
 AssetOrigin:
   serializedVersion: 1
-  productId: 135162
-  packageName: 3D Game Kit Lite
-  packageVersion: 1.8.2
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
   assetPath: Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenRandomIdle3.fbx
-  uploadId: 462213
+  uploadId: 604606
