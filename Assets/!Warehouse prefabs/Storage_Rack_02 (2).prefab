@@ -364,7 +364,7 @@ GameObject:
   - component: {fileID: 4249284411011882568}
   - component: {fileID: 2892354339820722665}
   - component: {fileID: 7241474627963090327}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: Storage_Rack_02 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}

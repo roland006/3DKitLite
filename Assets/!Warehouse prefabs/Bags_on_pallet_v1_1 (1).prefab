@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 3920592787096978802}
   - component: {fileID: 1074662688599313572}
   - component: {fileID: 918126701767587822}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: Bags_on_pallet_v1_1 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
