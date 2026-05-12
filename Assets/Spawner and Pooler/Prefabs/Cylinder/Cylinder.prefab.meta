@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 37a50e168f872ba4eaa69a071a6a82ac
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 169686
+  packageName: Spawner and Pooler
+  packageVersion: 1.0
+  assetPath: Assets/Spawner and Pooler/Prefabs/Cylinder/Cylinder.prefab
+  uploadId: 370681

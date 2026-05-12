@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a8a52e0606bf11a49924952f02741d89
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 169686
+  packageName: Spawner and Pooler
+  packageVersion: 1.0
+  assetPath: Assets/Spawner and Pooler/Prefabs/Capsule/Capsule.prefab
+  uploadId: 370681

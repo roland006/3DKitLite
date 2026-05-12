@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e194cc6d5205e6f499d1b40f37924673
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 169686
+  packageName: Spawner and Pooler
+  packageVersion: 1.0
+  assetPath: Assets/Spawner and Pooler/Prefabs/Sphere/Sphere.mat
+  uploadId: 370681

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 760b12e6b22f6044ca6459020af47361
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 169686
+  packageName: Spawner and Pooler
+  packageVersion: 1.0
+  assetPath: Assets/Spawner and Pooler/Prefabs/WaveSpawner.prefab
+  uploadId: 370681

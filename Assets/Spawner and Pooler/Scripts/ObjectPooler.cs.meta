@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bece62625ea6dcf41a900397df558a96
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 100
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 169686
+  packageName: Spawner and Pooler
+  packageVersion: 1.0
+  assetPath: Assets/Spawner and Pooler/Scripts/ObjectPooler.cs
+  uploadId: 370681

@@ -1,0 +1,33 @@
+Spawner and Pooler v1.0
+Developed by IndieMount Studios
+
+Very powerful and light weight Wave Spawner, combination with a pooler which can pool everything in the scene and a Shape Spawner which can be used in many different scenarios.
+
+# QUICK START
+
+1. Import the asset into your scene and it is ready to use.
+2. Document and video should be referred for better understanding. Link are provided in the contact section.
+
+# CHANGELOG
+
+v1.0 - Initial Release
+
+# FUTURE UPDATE
+
+1. Improvement based on feedback
+2. More Shapes in Shapes Spawner
+3. Spawn areas and Spawn point methods for spawning
+3. DOTS implementation and performance improvement
+
+# CONTACT
+
+Video Link: https://www.youtube.com/channel/UCGwdI38YK-awroNktidV7Fw/
+Follow Us at: 	Instagram: https://www.instagram.com/indiemount/
+Visit Us at: https://indiemount.com/
+Support on Patreon: https://www.patreon.com/indiemount 
+Feedback and Contact at: contact@indiemount.com
+
+IF YOU LIKED OUR WORK SUPPORT US at: Pateron: 
+
+THANK YOU FOR DOWNLOADING SPAWNER AND POOLER! 
+STAY TUNED FOR MORE ASSETS, GAMES and GAMING NEWS, REVIEWS, RELEASES AND MUCH MORE
