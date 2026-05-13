@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c56e5bb616bf12341aa9f081b2756597
+timeCreated: 1473673924
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127325
+  packageName: Particle Pack
+  packageVersion: 3.1
+  assetPath: Assets/UnityTechnologies/ParticlePack/EffectExamples/Weapon Effects/Materials/TinyStonesParticle.mat
+  uploadId: 691001
