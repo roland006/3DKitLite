@@ -12,6 +12,13 @@ labels:
 - missile
 - hellfire
 - shoot
+AssetOrigin:
+  serializedVersion: 1
+  productId: 4244
+  packageName: Military Attack Helicopter & Hellfire missile
+  packageVersion: 1.0
+  assetPath: Assets/Attack Hellicopter/Gunship.fbx
+  uploadId: 27424
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable:
@@ -158,10 +165,3 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 4244
-  packageName: Military Attack Helicopter & Hellfire missile
-  packageVersion: 1.0
-  assetPath: Assets/Attack Hellicopter/Gunship.fbx
-  uploadId: 27424
