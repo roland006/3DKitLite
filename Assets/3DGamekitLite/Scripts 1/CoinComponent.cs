@@ -10,6 +10,7 @@ public class CoinComponent : MonoBehaviour
 {
     public CharacterController Ellen;
     public CounterCoins Counter;
+    public GameObject CoinVFX;
 
 
     public float moveSpeed = 1;
@@ -60,6 +61,7 @@ public class CoinComponent : MonoBehaviour
                 Counter.Coins++; // 
 
                 Debug.LogError(Counter.Coins);
+            Instantiate(CoinVFX, transform.position, transform.rotation);
                 Destroy(this.gameObject);
             }   
     }
