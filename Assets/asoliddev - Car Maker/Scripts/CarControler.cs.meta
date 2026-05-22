@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5b1c59f58a9a5aa40b3717512fc02136
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166164
+  packageName: Car Maker
+  packageVersion: 1.0
+  assetPath: Assets/asoliddev - Car Maker/Scripts/CarControler.cs
+  uploadId: 367528

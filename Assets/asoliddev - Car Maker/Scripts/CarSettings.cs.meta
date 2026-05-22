@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c68bb28eb215b34489f25fcfa8f2f75c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166164
+  packageName: Car Maker
+  packageVersion: 1.0
+  assetPath: Assets/asoliddev - Car Maker/Scripts/CarSettings.cs
+  uploadId: 367528

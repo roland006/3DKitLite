@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5324b06281435db408d10e9114b50c08
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166164
+  packageName: Car Maker
+  packageVersion: 1.0
+  assetPath: Assets/asoliddev - Car Maker/Scripts/WheelAxle.cs
+  uploadId: 367528
