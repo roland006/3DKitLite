@@ -1,0 +1,189 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3539248397072933043
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 530688932490701080}
+  - component: {fileID: 7307127124012623809}
+  - component: {fileID: 7441062738695150843}
+  - component: {fileID: 5734977814489204531}
+  m_Layer: 16
+  m_Name: CoinPrefab
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &530688932490701080
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3539248397072933043}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 6.437951, y: 2.660018, z: 31.827473}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7694068366346896375}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &7307127124012623809
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3539248397072933043}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.1026454, y: 0.9518428, z: 0.9685402}
+  m_Center: {x: -0.17962956, y: -1.1141895, z: 0.7837696}
+--- !u!114 &7441062738695150843
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3539248397072933043}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 984737c4d5494e94fb9ff6e19b360c9e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Ellen: {fileID: 0}
+  Counter: {fileID: 0}
+  CoinVFX: {fileID: 0}
+  moveSpeed: 3
+  heightAplitude: 0
+  rotationSpeed: {x: 260, y: 50, z: 0}
+--- !u!114 &5734977814489204531
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3539248397072933043}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6e38ccf902f148e69c411da9fcde5cf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  layers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  OnEnter:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 0}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
+  OnExit:
+    m_PersistentCalls:
+      m_Calls: []
+  inventoryChecks: []
+--- !u!1001 &3549900668707595022
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 530688932490701080}
+    m_Modifications:
+    - target: {fileID: 1051975030466138932, guid: 5a9c0e7e966b67745aa2d3cd227d3c4d,
+        type: 3}
+      propertyPath: m_Name
+      value: Coin (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5990107845584371834, guid: 5a9c0e7e966b67745aa2d3cd227d3c4d,
+        type: 3}
+      propertyPath: m_VersionIndex
+      value: 3700
+      objectReference: {fileID: 0}
+    - target: {fileID: 6594701090440192249, guid: 5a9c0e7e966b67745aa2d3cd227d3c4d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.30795097
+      objectReference: {fileID: 0}
+    - target: {fileID: 6594701090440192249, guid: 5a9c0e7e966b67745aa2d3cd227d3c4d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.110018
+      objectReference: {fileID: 0}
+    - target: {fileID: 6594701090440192249, guid: 5a9c0e7e966b67745aa2d3cd227d3c4d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.75252914
+      objectReference: {fileID: 0}
+    - target: {fileID: 6594701090440192249, guid: 5a9c0e7e966b67745aa2d3cd227d3c4d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7210063
+      objectReference: {fileID: 0}
+    - target: {fileID: 6594701090440192249, guid: 5a9c0e7e966b67745aa2d3cd227d3c4d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.007862817
+      objectReference: {fileID: 0}
+    - target: {fileID: 6594701090440192249, guid: 5a9c0e7e966b67745aa2d3cd227d3c4d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.004865175
+      objectReference: {fileID: 0}
+    - target: {fileID: 6594701090440192249, guid: 5a9c0e7e966b67745aa2d3cd227d3c4d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.6928669
+      objectReference: {fileID: 0}
+    - target: {fileID: 6594701090440192249, guid: 5a9c0e7e966b67745aa2d3cd227d3c4d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 1.036
+      objectReference: {fileID: 0}
+    - target: {fileID: 6594701090440192249, guid: 5a9c0e7e966b67745aa2d3cd227d3c4d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0.222
+      objectReference: {fileID: 0}
+    - target: {fileID: 6594701090440192249, guid: 5a9c0e7e966b67745aa2d3cd227d3c4d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 87.722
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5a9c0e7e966b67745aa2d3cd227d3c4d, type: 3}
+--- !u!4 &7694068366346896375 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6594701090440192249, guid: 5a9c0e7e966b67745aa2d3cd227d3c4d,
+    type: 3}
+  m_PrefabInstance: {fileID: 3549900668707595022}
+  m_PrefabAsset: {fileID: 0}
