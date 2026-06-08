@@ -15,7 +15,7 @@ public class NewMonoBehaviourScript : MonoBehaviour
         {
             int current = int.Parse(uiText.text);
             uiText.text = (current + 1).ToString();
-          
+
             Destroy(gameObject);
         }
     }
