@@ -10,6 +10,7 @@ public class CoinComponent : MonoBehaviour
 {
     public CharacterController Ellen;
     public CounterCoins Counter;
+    public GameObject CoinVFX;
 
 
     public float moveSpeed = 1;
@@ -57,9 +58,10 @@ public class CoinComponent : MonoBehaviour
     {
         if (other == Ellen)
         {
-            Counter.Coins++; // 
+            Counter.Coins++; //
 
             Debug.LogError(Counter.Coins);
+            Instantiate(CoinVFX, transform.position, Quaternion.identity);
             Destroy(this.gameObject);
         }
     }
