@@ -13,8 +13,8 @@ public class EndingCutscene : MonoBehaviour
     private string endingMessage =
         "Продолжение следует...";
 
-    [SerializeField] private float fadeDuration = 2f;
-    [SerializeField] private float textDelay = 1f;
+    [SerializeField] private float fadeDuration = 0.5f;
+    [SerializeField] private float textDelay = 0.2f;
 
     [Header("Музыка")]
     [SerializeField] private AudioSource mainMusic;
