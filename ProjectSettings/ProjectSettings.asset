@@ -781,7 +781,7 @@ PlayerSettings:
   cloudProjectId: 6ee4f0ec-02fb-4b36-b191-6ed73b20c95b
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Platformer3DClient
+  projectName: 3DKitLite
   organizationId: roland006
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1

@@ -106,12 +106,10 @@ namespace Gamekit3D
 
         public void FindTarget()
         {
-            //we ignore height difference if the target was already seen
             PlayerController target = playerScanner.Detect(transform, m_Target == null);
 
             if (m_Target == null)
             {
-                //we just saw the player for the first time, pick an empty spot to target around them
                 if (target != null)
                 {
                     m_Controller.animator.SetTrigger(hashSpotted);
@@ -123,24 +121,16 @@ namespace Gamekit3D
             }
             else
             {
-                //we lost the target. But chomper have a special behaviour : they only loose the player scent if they move past their detection range
-                //and they didn't see the player for a given time. Not if they move out of their detectionAngle. So we check that this is the case before removing the target
                 if (target == null)
                 {
                     m_TimerSinceLostTarget += Time.deltaTime;
 
                     if (m_TimerSinceLostTarget >= timeToStopPursuit)
                     {
-                        Vector3 toTarget = m_Target.transform.position - transform.position;
+                        if (m_FollowerInstance != null)
+                            m_FollowerInstance.distributor.UnregisterFollower(m_FollowerInstance);
 
-                        if (toTarget.sqrMagnitude > playerScanner.detectionRadius * playerScanner.detectionRadius)
-                        {
-                            if (m_FollowerInstance != null)
-                                m_FollowerInstance.distributor.UnregisterFollower(m_FollowerInstance);
-
-                            //the target move out of range, reset the target
-                            m_Target = null;
-                        }
+                        m_Target = null;
                     }
                 }
                 else

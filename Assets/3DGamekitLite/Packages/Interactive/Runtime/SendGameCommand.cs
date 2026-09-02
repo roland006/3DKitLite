@@ -41,7 +41,22 @@ namespace Gamekit3D.GameCommands
             if (Time.time - lastSendTime < coolDown) return;
             isTriggered = true;
             lastSendTime = Time.time;
-            interactiveObject.Receive(interactionType);
+            if (interactiveObject == null)
+            {
+                interactiveObject = GetComponent<GameCommandReceiver>();
+                if (interactiveObject == null)
+                    interactiveObject = GetComponentInParent<GameCommandReceiver>();
+            }
+
+            if (interactiveObject != null)
+            {
+                interactiveObject.Receive(interactionType);
+            }
+            else
+            {
+                Debug.LogWarning($"SendGameCommand: No GameCommandReceiver found on {gameObject.name}");
+            }
+            
             if (onSendAudio) onSendAudio.PlayDelayed(audioDelay);
         }
 

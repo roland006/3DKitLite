@@ -1,0 +1,1443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e9c309f-8bc3-4f8d-9404-3f3cf2210709" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.3DKitLite/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.3DKitLite/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.3DKitLite/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.3DKitLite/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Prefabs/LevelPrefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Prefabs/LevelPrefabs/Level01Audio.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Prefabs/LevelPrefabs/Level01Audio.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Prefabs/LevelPrefabs/Level01InformationZones.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Prefabs/LevelPrefabs/Level01InformationZones.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Prefabs/LevelPrefabs/Level01PostProcessVolumes.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Prefabs/LevelPrefabs/Level01PostProcessVolumes.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Prefabs/LevelPrefabs/Level01Sequences.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Prefabs/LevelPrefabs/Level01Sequences.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Scenes/Data.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Scenes/Data/PostProcessingProfiles.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Scenes/Data/PostProcessingProfiles/Level1PostProcessingProfiles.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Scenes/Data/PostProcessingProfiles/Level1PostProcessingProfiles/Level01 Global Profile Balanced.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Scenes/Data/PostProcessingProfiles/Level1PostProcessingProfiles/Level01 Global Profile Balanced.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Scenes/Data/PostProcessingProfiles/Level1PostProcessingProfiles/Level01 Global Profile Fantastic.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Scenes/Data/PostProcessingProfiles/Level1PostProcessingProfiles/Level01 Global Profile Fantastic.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Scenes/Data/PostProcessingProfiles/Level1PostProcessingProfiles/Level01 Global Profile Fastest.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Scenes/Data/PostProcessingProfiles/Level1PostProcessingProfiles/Level01 Global Profile Fastest.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Scenes/Data/PostProcessingProfiles/Level1PostProcessingProfiles/Level01 Global Profile.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Scenes/Data/PostProcessingProfiles/Level1PostProcessingProfiles/Level01 Global Profile.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Scenes/Data/PostProcessingProfiles/Level1PostProcessingProfiles/Level01 KeyRoom Profile.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Scenes/Data/PostProcessingProfiles/Level1PostProcessingProfiles/Level01 KeyRoom Profile.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Scenes/Data/PostProcessingProfiles/Level1PostProcessingProfiles/Level01 Teleporter Profile.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Scenes/Data/PostProcessingProfiles/Level1PostProcessingProfiles/Level01 Teleporter Profile.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Scenes/GamePlay.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Scenes/GamePlay/space_loozr_station.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Scenes/GamePlay/space_loozr_station.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Scenes/GamePlay/space_loozr_station.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Scenes/GamePlay/space_loozr_station/LightingData.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Scenes/GamePlay/space_loozr_station/LightingData.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Scenes/GamePlay/space_loozr_station/Lightmap-0_comp_dir.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Scenes/GamePlay/space_loozr_station/Lightmap-0_comp_dir.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Scenes/GamePlay/space_loozr_station/Lightmap-0_comp_light.exr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Scenes/GamePlay/space_loozr_station/Lightmap-0_comp_light.exr.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Scenes/GamePlay/space_loozr_station/NavMesh-ScifiLevel.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Scenes/GamePlay/space_loozr_station/NavMesh-ScifiLevel.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Scenes/GamePlay/space_loozr_station/ReflectionProbe-0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Scenes/GamePlay/space_loozr_station/ReflectionProbe-0.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Scenes/GamePlay/space_loozr_station/ReflectionProbe-1.exr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Scenes/GamePlay/space_loozr_station/ReflectionProbe-1.exr.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Scripts/Game.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Scripts/Game/Helpers.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Scripts/Game/Helpers/IntroFlybyCutscene.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3DGamekit/Scripts/Game/Helpers/IntroFlybyCutscene.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/CoinHUD.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/CoinHUD.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/CoinPickup.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/CoinPickup.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/DanielRiches.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/DanielRiches/BooksEssentials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/DanielRiches/BooksEssentials/BooksAndTomes.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/DanielRiches/BooksEssentials/BooksAndTomes.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/DanielRiches/BooksEssentials/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/DanielRiches/BooksEssentials/Prefabs/BookPageWriting.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/DanielRiches/BooksEssentials/Prefabs/BookPageWriting.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Door_1_Trigger.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Door_1_Trigger.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Door_2_Trigge.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Door_2_Trigge.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Door_Right_trigger.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Door_Right_trigger.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Game Music Collection.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Game Music Collection/Sci-Fi Music.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Game Music Collection/Sci-Fi Music/Free Sci-Fi Track 1 (Loop).wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Game Music Collection/Sci-Fi Music/Free Sci-Fi Track 1 (Loop).wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Game Music Collection/Sci-Fi Music/Free Sci-Fi Track 3 (Loop).wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Game Music Collection/Sci-Fi Music/Free Sci-Fi Track 3 (Loop).wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Materials/Key Simple 03 Eyelets.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Materials/Key Simple 03 Eyelets.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Materials/Key Simple 03 Tag.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Materials/Key Simple 03 Tag.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Materials/Key Simple 03.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Materials/Key Simple 03.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Models.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Models/Simple_03.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Models/Simple_03.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Prefabs/SImple_03.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Prefabs/SImple_03.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Textures.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Textures/Simple Key 02.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Textures/Simple Key 02/Simple Key 02_Eyelets_BaseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Textures/Simple Key 02/Simple Key 02_Eyelets_BaseColor.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Textures/Simple Key 02/Simple Key 02_Eyelets_Height.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Textures/Simple Key 02/Simple Key 02_Eyelets_Height.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Textures/Simple Key 02/Simple Key 02_Eyelets_Metallic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Textures/Simple Key 02/Simple Key 02_Eyelets_Metallic.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Textures/Simple Key 02/Simple Key 02_Eyelets_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Textures/Simple Key 02/Simple Key 02_Eyelets_Normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Textures/Simple Key 02/Simple Key 02_Eyelets_Roughness.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Textures/Simple Key 02/Simple Key 02_Eyelets_Roughness.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Textures/Simple Key 02/Simple Key 02_Key_BaseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Textures/Simple Key 02/Simple Key 02_Key_BaseColor.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Textures/Simple Key 02/Simple Key 02_Key_Height.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Textures/Simple Key 02/Simple Key 02_Key_Height.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Textures/Simple Key 02/Simple Key 02_Key_Metallic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Textures/Simple Key 02/Simple Key 02_Key_Metallic.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Textures/Simple Key 02/Simple Key 02_Key_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Textures/Simple Key 02/Simple Key 02_Key_Normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Textures/Simple Key 02/Simple Key 02_Key_Roughness.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Textures/Simple Key 02/Simple Key 02_Key_Roughness.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Textures/Simple Key 02/Simple Key 02_Tag_BaseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Textures/Simple Key 02/Simple Key 02_Tag_BaseColor.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Textures/Simple Key 02/Simple Key 02_Tag_Height.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Textures/Simple Key 02/Simple Key 02_Tag_Height.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Textures/Simple Key 02/Simple Key 02_Tag_Metallic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Textures/Simple Key 02/Simple Key 02_Tag_Metallic.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Textures/Simple Key 02/Simple Key 02_Tag_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Textures/Simple Key 02/Simple Key 02_Tag_Normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Textures/Simple Key 02/Simple Key 02_Tag_Roughness.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gabies_Assets/Keys/Textures/Simple Key 02/Simple Key 02_Tag_Roughness.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gangnam Style.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gangnam Style.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Inventory.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Inventory/coin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Inventory/coin.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Inventory/key.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Inventory/key.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/KeyHUD.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/KeyHUD.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/KeyLockedDoor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/KeyLockedDoor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/KeyPickup.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/KeyPickup.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LiquidFire Package 4 - BSH games.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LiquidFire Package 4 - BSH games/Devtoid - Gold Coins.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LiquidFire Package 4 - BSH games/Devtoid - Gold Coins/3D Assets.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LiquidFire Package 4 - BSH games/Devtoid - Gold Coins/3D Assets/Gold Coin - Single.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LiquidFire Package 4 - BSH games/Devtoid - Gold Coins/3D Assets/Gold Coin - Single/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LiquidFire Package 4 - BSH games/Devtoid - Gold Coins/3D Assets/Gold Coin - Single/Materials/Gold Coin - Single.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LiquidFire Package 4 - BSH games/Devtoid - Gold Coins/3D Assets/Gold Coin - Single/Materials/Gold Coin - Single.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LiquidFire Package 4 - BSH games/Devtoid - Gold Coins/3D Assets/Gold Coin - Single/Mesh.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LiquidFire Package 4 - BSH games/Devtoid - Gold Coins/3D Assets/Gold Coin - Single/Mesh/GoldCoin.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LiquidFire Package 4 - BSH games/Devtoid - Gold Coins/3D Assets/Gold Coin - Single/Mesh/GoldCoin.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LiquidFire Package 4 - BSH games/Devtoid - Gold Coins/3D Assets/Gold Coin - Single/Mesh/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LiquidFire Package 4 - BSH games/Devtoid - Gold Coins/3D Assets/Gold Coin - Single/Mesh/Materials/goldCoin_Diffuse.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LiquidFire Package 4 - BSH games/Devtoid - Gold Coins/3D Assets/Gold Coin - Single/Mesh/Materials/goldCoin_Diffuse.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LiquidFire Package 4 - BSH games/Devtoid - Gold Coins/3D Assets/Gold Coin - Single/Prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LiquidFire Package 4 - BSH games/Devtoid - Gold Coins/3D Assets/Gold Coin - Single/Prefab/GoldCoin.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LiquidFire Package 4 - BSH games/Devtoid - Gold Coins/3D Assets/Gold Coin - Single/Prefab/GoldCoin.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LiquidFire Package 4 - BSH games/Devtoid - Gold Coins/3D Assets/Gold Coins.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LiquidFire Package 4 - BSH games/Devtoid - Gold Coins/3D Assets/Gold Coins/Textures.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LiquidFire Package 4 - BSH games/Devtoid - Gold Coins/3D Assets/Gold Coins/Textures/GoldCoins_AlbedoTransparency.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LiquidFire Package 4 - BSH games/Devtoid - Gold Coins/3D Assets/Gold Coins/Textures/GoldCoins_AlbedoTransparency.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LiquidFire Package 4 - BSH games/Devtoid - Gold Coins/3D Assets/Gold Coins/Textures/GoldCoins_MetallicSmoothness.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LiquidFire Package 4 - BSH games/Devtoid - Gold Coins/3D Assets/Gold Coins/Textures/GoldCoins_MetallicSmoothness.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LiquidFire Package 4 - BSH games/Devtoid - Gold Coins/3D Assets/Gold Coins/Textures/GoldCoins_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LiquidFire Package 4 - BSH games/Devtoid - Gold Coins/3D Assets/Gold Coins/Textures/GoldCoins_Normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/MHLab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/MHLab/StickyNotes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/MHLab/StickyNotes/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/MHLab/StickyNotes/Prefabs/Resources.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/MHLab/StickyNotes/Prefabs/Resources/StickyNotes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/MHLab/StickyNotes/Prefabs/Resources/StickyNotes/StickyNoteSimple.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/MHLab/StickyNotes/Prefabs/Resources/StickyNotes/StickyNoteSimple.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/MHLab/StickyNotes/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/MHLab/StickyNotes/Scripts/StickyNote.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/MHLab/StickyNotes/Scripts/StickyNote.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Checkpoint1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Checkpoint1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/ScifiLevel.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/ScifiLevel.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/WorkingDoor.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/WorkingDoor.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ResetDoor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ResetDoor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Animations.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Animations/door_1_close.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Animations/door_1_close.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Animations/door_1_closed.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Animations/door_1_closed.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Animations/door_1_open.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Animations/door_1_open.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Animations/door_1_opened.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Animations/door_1_opened.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Animations/door_3_close.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Animations/door_3_close.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Animations/door_3_closed.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Animations/door_3_closed.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Animations/door_3_open.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Animations/door_3_open.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Animations/door_3_opened.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Animations/door_3_opened.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Animations/frame_door_1.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Animations/frame_door_1.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Animations/frame_door_3.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Animations/frame_door_3.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/BAKING.lighting" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/BAKING.lighting.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/Palletes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/Palletes/base color.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/Palletes/base color.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/Palletes/blue color.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/Palletes/blue color.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/Palletes/coffee color.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/Palletes/coffee color.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/Palletes/dark color.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/Palletes/dark color.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/base-color-normal.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/base-color-normal.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/base-color.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/base-color.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/blue emission.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/blue emission.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/comuter_wall.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/comuter_wall.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/glass.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/glass.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/hologram.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/hologram.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/hologram_particle.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/hologram_particle.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/lattice 2.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/lattice 2.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/lattice floor.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/lattice floor.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/lattice.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/lattice.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/nature_bush.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/nature_bush.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/nature_ground.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/nature_ground.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/nature_leaves.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/nature_leaves.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/nature_root.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/nature_root.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/projector_warning.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/projector_warning.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/screen.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/screen.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/white emision.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/white emision.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/window.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/window.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/window_big_emission_mask.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/window_big_emission_mask.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/Cube_2x2_extended.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/Cube_2x2_extended.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/Cylinder_16_extended.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/Cylinder_16_extended.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/Materials/No Name.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/Materials/No Name.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/Materials/base color.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/Materials/base color.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/art_1.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/art_1.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/art_2.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/art_2.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/art_5.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/art_5.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/art_6.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/art_6.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/battery.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/battery.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/battery_big.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/battery_big.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/big_screen.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/big_screen.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/blank_wall_A.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/blank_wall_A.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/blank_wall_B.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/blank_wall_B.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/bulletin_board_big.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/bulletin_board_big.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/bulletin_board_small.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/bulletin_board_small.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/cabinet.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/cabinet.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/cabinet_L_cutted.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/cabinet_L_cutted.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/column_end.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/column_end.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/column_kneel.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/column_kneel.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/column_kneel_2.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/column_kneel_2.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/column_middle.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/column_middle.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/computer_station.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/computer_station.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/console.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/console.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/console_celing.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/console_celing.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/console_screen.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/console_screen.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/container_big.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/container_big.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_chair_LOD0.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_chair_LOD0.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_chair_LOD1.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_chair_LOD1.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_half_wall_1_LOD0.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_half_wall_1_LOD0.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_half_wall_1_LOD1.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_half_wall_1_LOD1.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_half_wall_3_LOD0.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_half_wall_3_LOD0.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_half_wall_3_LOD1.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_half_wall_3_LOD1.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_half_wall_4_LOD0.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_half_wall_4_LOD0.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_half_wall_4_LOD1.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_half_wall_4_LOD1.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_half_wall_6.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_half_wall_6.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_pilow_LOD0.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_pilow_LOD0.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_pilow_LOD1.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_pilow_LOD1.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_plant.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_plant.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_plant_desk.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_plant_desk.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_plant_small.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_plant_small.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_sofa_LOD0.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_sofa_LOD0.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_sofa_LOD1.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_sofa_LOD1.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_table_glass.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_table_glass.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_table_no_glass.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_table_no_glass.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_table_small_no_glass.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_table_small_no_glass.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_wall_1_LOD0.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_wall_1_LOD0.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_wall_1_LOD1.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_wall_1_LOD1.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_wall_2_LOD0.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_wall_2_LOD0.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_wall_2_LOD1.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_wall_2_LOD1.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_wall_3_LOD0.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_wall_3_LOD0.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_wall_3_LOD1.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_wall_3_LOD1.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_wall_4_computer_LOD0.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_wall_4_computer_LOD0.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_wall_4_computer_LOD1.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_wall_4_computer_LOD1.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_wall_E.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/decorative_wall_E.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/desk.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/desk.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/desk_no_computer.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/desk_no_computer.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/door_1_left.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/door_1_left.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/door_1_right.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/door_1_right.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/door_3_bottom_A.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/door_3_bottom_A.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/door_3_bottom_B.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/door_3_bottom_B.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/door_3_top_A.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/door_3_top_A.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/door_3_top_B.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/door_3_top_B.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/floor_2_LOD0.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/floor_2_LOD0.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/floor_2_LOD1.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/floor_2_LOD1.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/floor_2_L_LOD0.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/floor_2_L_LOD0.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/floor_2_L_LOD1.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/floor_2_L_LOD1.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/floor_2_no_lattice_LOD0.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/floor_2_no_lattice_LOD0.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/floor_2_no_lattice_LOD1.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/floor_2_no_lattice_LOD1.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/floor_4.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/floor_4.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/floor_5.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/floor_5.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/floor_6.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/floor_6.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/floor_corner_ornament.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/floor_corner_ornament.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/frame_door_1.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/frame_door_1.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/frame_door_1_colision_mesh.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/frame_door_1_colision_mesh.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/frame_door_3.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/frame_door_3.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/frame_door_3_colision_mesh.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/frame_door_3_colision_mesh.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/generator.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/generator.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/glass_panel_1.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/glass_panel_1.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/glass_panel_1_corner.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/glass_panel_1_corner.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/hologram_LOD0.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/hologram_LOD0.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/hologram_LOD1.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/hologram_LOD1.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/hydroponic.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/hydroponic.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/light_celing_2.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/light_celing_2.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/light_wall_1.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/light_wall_1.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/light_wall_2.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/light_wall_2.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/light_wall_3.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/light_wall_3.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/light_wall_3_blue.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/light_wall_3_blue.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/pilot_seat.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/pilot_seat.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/projector_LOD0.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/projector_LOD0.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/projector_LOD1.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/projector_LOD1.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/shelf.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/shelf.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/shelf_small.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/shelf_small.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/shield_generator.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/shield_generator.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/sign.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/sign.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/sing_small.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/sing_small.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/stairs_small.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/stairs_small.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/storage_container_small.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/storage_container_small.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/table_2.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/table_2.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/torpedo.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/torpedo.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/torpedo_docking_station_2_side.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/torpedo_docking_station_2_side.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/vending_machine.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/vending_machine.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/wall_big_no_side_full_LOD0.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/wall_big_no_side_full_LOD0.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/wall_big_no_side_full_LOD1.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/wall_big_no_side_full_LOD1.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/wall_small_no_side_full_LOD0.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/wall_small_no_side_full_LOD0.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/window_big_blocker.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/window_big_blocker.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/window_big_blocker_3.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/window_big_blocker_3.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/window_big_corner_LOD0.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/window_big_corner_LOD0.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/window_big_corner_LOD1.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/window_big_corner_LOD1.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/window_big_corner_far_LOD0.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/window_big_corner_far_LOD0.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/window_big_corner_far_LOD1.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/window_big_corner_far_LOD1.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/window_big_corner_far_plug.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/window_big_corner_far_plug.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/window_big_corner_plug.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/window_big_corner_plug.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/window_big_no_side_full.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/window_big_no_side_full.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/window_big_no_side_full_LOD0.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/window_big_no_side_full_LOD0.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/window_big_no_side_full_LOD1.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/window_big_no_side_full_LOD1.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/window_big_plug.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Models/window_big_plug.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Corridors.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Corridors/Corridor_1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Corridors/Corridor_1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Corridors/Corridor_3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Corridors/Corridor_3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Corridors/Corridor_I.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Corridors/Corridor_I.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Corridors/Corridor_L.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Corridors/Corridor_L.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Corridors/Corridor_T.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Corridors/Corridor_T.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Corridors/Corridor_X.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Corridors/Corridor_X.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/Column.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/Column/Arts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/Column/Arts/art_1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/Column/Arts/art_1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/Column/Arts/art_2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/Column/Arts/art_2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/Column/Arts/art_5.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/Column/Arts/art_5.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/Column/Arts/art_6.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/Column/Arts/art_6.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/Column/column_end.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/Column/column_end.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/Column/column_kneel.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/Column/column_kneel.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/Column/column_kneel_2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/Column/column_kneel_2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/Column/column_middle.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/Column/column_middle.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/Tables.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/Tables/Doors.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/Tables/Doors/door_1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/Tables/Doors/door_1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/Tables/Doors/door_3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/Tables/Doors/door_3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/Tables/decorative_table_glass.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/Tables/decorative_table_glass.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/Tables/decorative_table_no_glass.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/Tables/decorative_table_no_glass.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/Tables/decorative_table_small_no_glass.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/Tables/decorative_table_small_no_glass.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/Tables/desk.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/Tables/desk.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/Tables/desk_no_computer.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/Tables/desk_no_computer.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/Tables/table_2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/Tables/table_2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/big_screen.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/big_screen.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/bulletin_board_big.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/bulletin_board_big.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/bulletin_board_small.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/bulletin_board_small.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/cabinet.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/cabinet.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/cabinet_L_cutted.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/cabinet_L_cutted.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/computer_station.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/computer_station.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/console.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/console.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/console_celing.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/console_celing.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/console_screen.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/console_screen.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/decorative_chair.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/decorative_chair.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/decorative_pilow.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/decorative_pilow.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/decorative_plant.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/decorative_plant.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/decorative_plant_desk.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/decorative_plant_desk.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/decorative_plant_small.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/decorative_plant_small.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/decorative_sofa.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/decorative_sofa.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/floor_corner_ornament.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/floor_corner_ornament.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/hydroponic.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/hydroponic.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/pilot_seat.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/pilot_seat.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/shelf.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/shelf.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/shelf_small.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/shelf_small.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/sign.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/sign.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/sing_small.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/sing_small.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Extended Primitives.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Extended Primitives/Cube_2x2_extended.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Extended Primitives/Cube_2x2_extended.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Extended Primitives/Cylinder_16_extended.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Extended Primitives/Cylinder_16_extended.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Floors.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Floors/floor_2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Floors/floor_2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Floors/floor_2_L.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Floors/floor_2_L.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Floors/floor_2_no_lattice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Floors/floor_2_no_lattice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Floors/floor_4.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Floors/floor_4.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Floors/floor_5.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Floors/floor_5.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Floors/floor_6.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Floors/floor_6.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Lights.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Lights/light_celing_2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Lights/light_celing_2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Lights/light_wall_1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Lights/light_wall_1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Lights/light_wall_1_blue.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Lights/light_wall_1_blue.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Lights/light_wall_2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Lights/light_wall_2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Lights/light_wall_3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Lights/light_wall_3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Lights/light_wall_3_blue.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Lights/light_wall_3_blue.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Stairs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Stairs/stairs_small.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Stairs/stairs_small.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/Half walls.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/Half walls/decorative_half_wall_1_LOD.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/Half walls/decorative_half_wall_1_LOD.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/Half walls/decorative_half_wall_3_LOD.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/Half walls/decorative_half_wall_3_LOD.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/Half walls/decorative_half_wall_4_LOD.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/Half walls/decorative_half_wall_4_LOD.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/Half walls/decorative_half_wall_6.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/Half walls/decorative_half_wall_6.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/Machines.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/Machines/Battery.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/Machines/Battery.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/Machines/Battery_big.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/Machines/Battery_big.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/Machines/Capacitor.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/Machines/Capacitor.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/Machines/Shield Core.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/Machines/Shield Core.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/Machines/container_big.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/Machines/container_big.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/Machines/generator.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/Machines/generator.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/Machines/projector stars.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/Machines/projector stars.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/Machines/projector.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/Machines/projector.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/Machines/torpedo.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/Machines/torpedo.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/Machines/torpedo_docking_station_2_side.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/Machines/torpedo_docking_station_2_side.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/Machines/vending_machine.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/Machines/vending_machine.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/Simple.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/Simple/blank_wall_A.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/Simple/blank_wall_A.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/Simple/blank_wall_B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/Simple/blank_wall_B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/Simple/decorative_wall_E.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/Simple/decorative_wall_E.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/decorative_wall_3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/decorative_wall_3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/decorative_wall_4_computer.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/decorative_wall_4_computer.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/glass_panel_1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/glass_panel_1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/glass_panel_1_corner.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/glass_panel_1_corner.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/wall_big.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Walls/wall_big.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Windows.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Windows/Complete Windows.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Windows/Complete Windows/window_big_blocker.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Windows/Complete Windows/window_big_blocker.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Windows/window_big_blocker_3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Windows/window_big_blocker_3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Windows/window_big_corner_far.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Windows/window_big_corner_far.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Windows/window_small.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Prefabs/Windows/window_small.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Textures.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Textures/base-color-normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Textures/base-color-normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Textures/base-color.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Textures/base-color.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Textures/black-color.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Textures/black-color.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Textures/blue-color.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Textures/blue-color.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Textures/bush.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Textures/bush.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Textures/coffee-color.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Textures/coffee-color.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Textures/computer_wall_metalic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Textures/computer_wall_metalic.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Textures/computer_wall_texture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Textures/computer_wall_texture.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Textures/hologram texture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Textures/hologram texture.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Textures/lattice-emision-mask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Textures/lattice-emision-mask.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Textures/lattice.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Textures/lattice.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Textures/mettalic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Textures/mettalic.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Textures/nature_leaves.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Textures/nature_leaves.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Textures/projector_warning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Textures/projector_warning.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Textures/window_big.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Textures/window_big.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Textures/window_big_emission_mask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Textures/window_big_emission_mask.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Textures/window_big_transparent_mask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Textures/window_big_transparent_mask.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SpaceSkies Free.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SpaceSkies Free/Skybox_2.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SpaceSkies Free/Skybox_2/Green_1K_Resolution.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SpaceSkies Free/Skybox_2/Green_1K_Resolution.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SpaceSkies Free/Skybox_2/Textures.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SpaceSkies Free/Skybox_2/Textures/1K_Resolution.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SpaceSkies Free/Skybox_2/Textures/1K_Resolution/Back_1K_TEX.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SpaceSkies Free/Skybox_2/Textures/1K_Resolution/Back_1K_TEX.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SpaceSkies Free/Skybox_2/Textures/1K_Resolution/Down_1K_TEX.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SpaceSkies Free/Skybox_2/Textures/1K_Resolution/Down_1K_TEX.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SpaceSkies Free/Skybox_2/Textures/1K_Resolution/Front_1K_TEX.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SpaceSkies Free/Skybox_2/Textures/1K_Resolution/Front_1K_TEX.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SpaceSkies Free/Skybox_2/Textures/1K_Resolution/Left_1K_TEX.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SpaceSkies Free/Skybox_2/Textures/1K_Resolution/Left_1K_TEX.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SpaceSkies Free/Skybox_2/Textures/1K_Resolution/Right_1K_TEX.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SpaceSkies Free/Skybox_2/Textures/1K_Resolution/Right_1K_TEX.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SpaceSkies Free/Skybox_2/Textures/1K_Resolution/Up_1K_TEX.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SpaceSkies Free/Skybox_2/Textures/1K_Resolution/Up_1K_TEX.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VictoryDanceCutscene.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VictoryDanceCutscene.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HD_Alpha_01_Norm.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HD_Alpha_01_Norm.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HD_Alpha_01_Norm_Transp.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HD_Alpha_01_Norm_Transp.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HD_Alpha_02_Norm.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HD_Alpha_02_Norm.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HD_Floor_01_Norm.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HD_Floor_01_Norm.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HD_Floor_02_Norm.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HD_Floor_02_Norm.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HD_Stuff_01_Norm.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HD_Stuff_01_Norm.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HD_Stuff_02_Norm.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HD_Stuff_02_Norm.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HD_Stuff_03_Norm.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HD_Stuff_03_Norm.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HD_Stuff_04_Norm.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HD_Stuff_04_Norm.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HD_Wall_01_Norm.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HD_Wall_01_Norm.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HD_Wall_02_Norm.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HD_Wall_02_Norm.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HD_Wall_03_Norm.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HD_Wall_03_Norm.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HD_Wall_04_Norm.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HD_Wall_04_Norm.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HD_Wall_05_Norm.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HD_Wall_05_Norm.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HD_Wall_06_Norm.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HD_Wall_06_Norm.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HD_Wall_07_Norm.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HD_Wall_07_Norm.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HD_Wall_08_Norm.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HD_Wall_08_Norm.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HD_Wall_10_Norm.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HD_Wall_10_Norm.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HD_Wall_11_Norm.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HD_Wall_11_Norm.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HD_Wall_12_Norm.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HD_Wall_12_Norm.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HUD_Screen_01.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HUD_Screen_01.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HUD_Screen_02.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/HUD_Screen_02.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/_Others.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/_Others/Glass.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/_Others/Glass.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/_Others/Glow_Low.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/_Others/Glow_Low.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/_Others/Glow_Strong.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/_Others/Glow_Strong.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/_Others/Smoke.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/_Others/Smoke.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/_Others/Sun.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/Materials/_Others/Sun.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Doors.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Doors/DoorWay_01_Large (1).controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Doors/DoorWay_01_Large (1).controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Doors/DoorWay_01_Large 1.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Doors/DoorWay_01_Large 1.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Doors/DoorWay_01_Large.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Doors/DoorWay_01_Large.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Doors/DoorWay_01_Large.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Doors/DoorWay_01_Large.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Doors/DoorWay_01_Ramp.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Doors/DoorWay_01_Ramp.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Doors/DoorWay_01_Up.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Doors/DoorWay_01_Up.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Doors/Door_Left_01.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Doors/Door_Left_01.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Doors/Door_Right_01.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Doors/Door_Right_01.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Doors/Door_Vert_01.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Doors/Door_Vert_01.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Fences.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Fences/Fence_Long_01.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Fences/Fence_Long_01.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Fences/Fence_Short_01.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Fences/Fence_Short_01.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Fences/Fence_Turn_90_Large_01.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Fences/Fence_Turn_90_Large_01.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Fences/Fence_Turn_90_Short_01.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Fences/Fence_Turn_90_Short_01.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Floors.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Floors/Floor_Angle_01_6x6.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Floors/Floor_Angle_01_6x6.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Floors/Floor_Coin_01_Small.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Floors/Floor_Coin_01_Small.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Floors/Floor_Descent_01.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Floors/Floor_Descent_01.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Floors/Floor_Pipes_01.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Floors/Floor_Pipes_01.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Floors/Floor_Squared_01_6x6.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Floors/Floor_Squared_01_6x6.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Floors/Floor_Squared_02_6x6.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Floors/Floor_Squared_02_6x6.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Floors/Floor_Third_01_Strip_2x6.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Floors/Floor_Third_01_Strip_2x6.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Floors/Floor_Third_03_Strip_2x6.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Floors/Floor_Third_03_Strip_2x6.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Lights.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Lights/Light_Corridor_01.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Lights/Light_Corridor_01.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Lights/Light_Corridor_02.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Lights/Light_Corridor_02.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Lights/Light_SideLight_01.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Lights/Light_SideLight_01.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Lights/Light_SideLight_03.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Lights/Light_SideLight_03.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Lights/Light_SideLight_04.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Lights/Light_SideLight_04.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Lights/Light_SideLight_05.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Lights/Light_SideLight_05.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Props.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Props/Airing_01.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Props/Airing_01.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Props/Crate_01.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Props/Crate_01.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Props/Wall_Simple_05_Long.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Props/Wall_Simple_05_Long.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Roofs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Roofs/Roof_Angle_01_6x6.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Roofs/Roof_Angle_01_6x6.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Roofs/Roof_Squared_01_6x6.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Roofs/Roof_Squared_01_6x6.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Roofs/Roof_Squared_02_6x6.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Roofs/Roof_Squared_02_6x6.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Stairways.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Stairways/Stairway_Angle_Right_01.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Stairways/Stairway_Angle_Right_01.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Stairways/Stairway_PillarAngle_01.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Stairways/Stairway_PillarAngle_01.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Stairways/Stairway_Plateform_00.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Stairways/Stairway_Plateform_00.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Stuff.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Stuff/Beam_01.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Stuff/Beam_01.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Stuff/Beam_03.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Stuff/Beam_03.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Stuff/Grid_01.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Stuff/Grid_01.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Stuff/Intercom_01.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Stuff/Intercom_01.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Stuff/Pipes_01.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Stuff/Pipes_01.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Stuff/Pipes_02.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Stuff/Pipes_02.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Stuff/Pipes_03.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Stuff/Pipes_03.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Symbols.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Symbols/Num_1.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Symbols/Num_1.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Symbols/Num_2.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Symbols/Num_2.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Symbols/Sign_Danger_01.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Symbols/Sign_Danger_01.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Symbols/Symb_Arrow.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Symbols/Symb_Arrow.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Symbols/Word_Tech.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Symbols/Word_Tech.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Symbols/Word_Warning.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Symbols/Word_Warning.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Column_01_Big.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Column_01_Big.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Porthole_01_Long.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Porthole_01_Long.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Bed_01.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Bed_01.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Console_01_Half.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Console_01_Half.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Console_01_Large.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Console_01_Large.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Cube_01_Long.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Cube_01_Long.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Cube_01_Round.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Cube_01_Round.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Cube_02_Flat.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Cube_02_Flat.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Gear_01_Half.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Gear_01_Half.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Gear_02_Half.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Gear_02_Half.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Inclined_02_Coin.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Inclined_02_Coin.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Pipes_02_Large.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Pipes_02_Large.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Simple_01_Coin.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Simple_01_Coin.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Simple_01_Half.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Simple_01_Half.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Simple_01_InvertCoin.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Simple_01_InvertCoin.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Simple_01_Long.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Simple_01_Long.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Simple_01_Squared.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Simple_01_Squared.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Simple_01_TurnLarge_90.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Simple_01_TurnLarge_90.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Simple_01_TurnShort_90.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Simple_01_TurnShort_90.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Simple_02_Long.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Simple_02_Long.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Simple_03_Long.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Simple_03_Long.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Simple_04_Long.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Simple_04_Long.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Simple_05_Long.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Simple_05_Long.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Table_01.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Table_01.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Up_01_Long.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Meshes/Walls/Wall_Up_01_Long.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Doors.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Doors/DoorWay_01_Large.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Doors/DoorWay_01_Large.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Doors/Door_Left_01.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Doors/Door_Left_01.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Doors/Door_Right_01.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Doors/Door_Right_01.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Doors/Door_Vert_01.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Doors/Door_Vert_01.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Doors/Vertical_Doors_Kit.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Doors/Vertical_Doors_Kit.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Fences.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Fences/Fence_Angle_02.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Fences/Fence_Angle_02.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Fences/Fence_Short_01.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Fences/Fence_Short_01.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Floors.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Floors/Floor_Angle_01_6x6.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Floors/Floor_Angle_01_6x6.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Floors/Floor_Coin_01_Small.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Floors/Floor_Coin_01_Small.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Floors/Floor_Squared_01_6x6.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Floors/Floor_Squared_01_6x6.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Floors/Floor_Squared_02_6x6.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Floors/Floor_Squared_02_6x6.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Floors/Floor_Third_01_Strip_2x6.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Floors/Floor_Third_01_Strip_2x6.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Floors/Floor_Third_03_Strip_2x6.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Floors/Floor_Third_03_Strip_2x6.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Lights.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Lights/Light_Corridor_01.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Lights/Light_Corridor_01.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Lights/Light_Corridor_02.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Lights/Light_Corridor_02.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Lights/Light_SideLight_01.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Lights/Light_SideLight_01.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Lights/Light_SideLight_04.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Lights/Light_SideLight_04.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Props.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Props/Airing_01.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Props/Airing_01.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Props/Crate_01.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Props/Crate_01.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Roofs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Roofs/Roof_Angle_01_6x6.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Roofs/Roof_Angle_01_6x6.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Roofs/Roof_Squared_01_6x6.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Roofs/Roof_Squared_01_6x6.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Roofs/Roof_Squared_02_6x6.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Roofs/Roof_Squared_02_6x6.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Stairways.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Stairways/Stairway_PillarAngle_01.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Stairways/Stairway_PillarAngle_01.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Stuff.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Stuff/Beam_01.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Stuff/Beam_01.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Stuff/Beam_04.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Stuff/Beam_04.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Stuff/Intercom_01.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Stuff/Intercom_01.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Stuff/Pipes_01.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Stuff/Pipes_01.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Stuff/Pipes_02.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Stuff/Pipes_02.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Stuff/Pipes_03.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Stuff/Pipes_03.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Stuff/Sun.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Stuff/Sun.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Symbols.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Symbols/Num_1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Symbols/Num_1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Symbols/Num_2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Symbols/Num_2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Symbols/Symb_Arrow.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Symbols/Symb_Arrow.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Symbols/Word_Tech.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Symbols/Word_Tech.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Symbols/Word_Warning.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Symbols/Word_Warning.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Column_01_Big.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Column_01_Big.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Porthole_01_Long.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Porthole_01_Long.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Wall_Bed_01.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Wall_Bed_01.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Wall_Console_01_Half.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Wall_Console_01_Half.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Wall_Console_01_Large.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Wall_Console_01_Large.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Wall_Cube_01_Round.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Wall_Cube_01_Round.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Wall_Gear_01_Half.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Wall_Gear_01_Half.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Wall_Gear_02_Half.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Wall_Gear_02_Half.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Wall_Pipes_02_Large.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Wall_Pipes_02_Large.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Wall_Simple_01_Coin.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Wall_Simple_01_Coin.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Wall_Simple_01_Half.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Wall_Simple_01_Half.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Wall_Simple_01_InvertCoin.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Wall_Simple_01_InvertCoin.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Wall_Simple_01_Long.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Wall_Simple_01_Long.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Wall_Simple_01_Squared.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Wall_Simple_01_Squared.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Wall_Simple_01_TurnLarge_90.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Wall_Simple_01_TurnLarge_90.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Wall_Simple_01_TurnShort_90.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Wall_Simple_01_TurnShort_90.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Wall_Simple_02_Long.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Wall_Simple_02_Long.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Wall_Simple_03_Long.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Wall_Simple_03_Long.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Wall_Simple_04_Long.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Wall_Simple_04_Long.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Wall_Table_01.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Wall_Table_01.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Wall_Up_01_Long.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Prefabs/Walls/Wall_Up_01_Long.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Scripts/Turn_Move.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Scripts/Turn_Move.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Sounds.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Sounds/Ambiant_Loop.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Sounds/Ambiant_Loop.wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Sounds/Machin_Loop.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Sounds/Machin_Loop.wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Sounds/Pneumatic-door.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Sounds/Pneumatic-door.wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Alpha_01_Dif_Style_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Alpha_01_Dif_Style_01.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Alpha_01_Norm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Alpha_01_Norm.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Alpha_02_Dif_Style_02_AO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Alpha_02_Dif_Style_02_AO.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Alpha_02_Dif_Style_02_Alb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Alpha_02_Dif_Style_02_Alb.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Alpha_02_Dif_Style_02_Metal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Alpha_02_Dif_Style_02_Metal.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Alpha_02_Dif_Style_02_Norm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Alpha_02_Dif_Style_02_Norm.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Floor_01_Dif_Style_02_AO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Floor_01_Dif_Style_02_AO.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Floor_01_Dif_Style_02_Alb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Floor_01_Dif_Style_02_Alb.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Floor_01_Dif_Style_02_Metal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Floor_01_Dif_Style_02_Metal.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Floor_01_Dif_Style_02_Norm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Floor_01_Dif_Style_02_Norm.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Floor_02_Dif_Style_02_AO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Floor_02_Dif_Style_02_AO.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Floor_02_Dif_Style_02_Alb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Floor_02_Dif_Style_02_Alb.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Floor_02_Dif_Style_02_Metal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Floor_02_Dif_Style_02_Metal.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Floor_02_Dif_Style_02_Norm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Floor_02_Dif_Style_02_Norm.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Stuff_01_Dif_Style_02_AO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Stuff_01_Dif_Style_02_AO.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Stuff_01_Dif_Style_02_Alb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Stuff_01_Dif_Style_02_Alb.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Stuff_01_Dif_Style_02_Illum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Stuff_01_Dif_Style_02_Illum.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Stuff_01_Dif_Style_02_Metal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Stuff_01_Dif_Style_02_Metal.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Stuff_01_Dif_Style_02_Norm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Stuff_01_Dif_Style_02_Norm.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Stuff_02_Dif_Style_02_AO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Stuff_02_Dif_Style_02_AO.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Stuff_02_Dif_Style_02_Alb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Stuff_02_Dif_Style_02_Alb.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Stuff_02_Dif_Style_02_Illum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Stuff_02_Dif_Style_02_Illum.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Stuff_02_Dif_Style_02_Metal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Stuff_02_Dif_Style_02_Metal.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Stuff_02_Dif_Style_02_Norm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Stuff_02_Dif_Style_02_Norm.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Stuff_03_Dif_Style_02_AO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Stuff_03_Dif_Style_02_AO.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Stuff_03_Dif_Style_02_Alb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Stuff_03_Dif_Style_02_Alb.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Stuff_03_Dif_Style_02_Illum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Stuff_03_Dif_Style_02_Illum.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Stuff_03_Dif_Style_02_Metal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Stuff_03_Dif_Style_02_Metal.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Stuff_03_Dif_Style_02_Norm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Stuff_03_Dif_Style_02_Norm.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Stuff_04_Dif_Style_02_AO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Stuff_04_Dif_Style_02_AO.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Stuff_04_Dif_Style_02_Alb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Stuff_04_Dif_Style_02_Alb.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Stuff_04_Dif_Style_02_Illum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Stuff_04_Dif_Style_02_Illum.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Stuff_04_Dif_Style_02_Metal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Stuff_04_Dif_Style_02_Metal.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Stuff_04_Dif_Style_02_Norm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Stuff_04_Dif_Style_02_Norm.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_01_Dif_Style_02_AO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_01_Dif_Style_02_AO.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_01_Dif_Style_02_Alb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_01_Dif_Style_02_Alb.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_01_Dif_Style_02_Illum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_01_Dif_Style_02_Illum.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_01_Dif_Style_02_Metal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_01_Dif_Style_02_Metal.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_01_Dif_Style_02_Norm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_01_Dif_Style_02_Norm.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_02_Dif_Style_02_AO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_02_Dif_Style_02_AO.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_02_Dif_Style_02_Alb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_02_Dif_Style_02_Alb.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_02_Dif_Style_02_Illum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_02_Dif_Style_02_Illum.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_02_Dif_Style_02_Metal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_02_Dif_Style_02_Metal.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_02_Dif_Style_02_Norm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_02_Dif_Style_02_Norm.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_03_Dif_Style_02_AO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_03_Dif_Style_02_AO.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_03_Dif_Style_02_Alb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_03_Dif_Style_02_Alb.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_03_Dif_Style_02_Illum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_03_Dif_Style_02_Illum.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_03_Dif_Style_02_Metal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_03_Dif_Style_02_Metal.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_03_Dif_Style_02_Norm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_03_Dif_Style_02_Norm.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_04_Dif_Style_02_AO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_04_Dif_Style_02_AO.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_04_Dif_Style_02_Alb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_04_Dif_Style_02_Alb.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_04_Dif_Style_02_Illum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_04_Dif_Style_02_Illum.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_04_Dif_Style_02_Metal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_04_Dif_Style_02_Metal.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_04_Dif_Style_02_Norm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_04_Dif_Style_02_Norm.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_05_Dif_Style_02_AO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_05_Dif_Style_02_AO.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_05_Dif_Style_02_Alb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_05_Dif_Style_02_Alb.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_05_Dif_Style_02_Illum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_05_Dif_Style_02_Illum.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_05_Dif_Style_02_Metal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_05_Dif_Style_02_Metal.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_06_Dif_Style_02_AO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_06_Dif_Style_02_AO.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_06_Dif_Style_02_Alb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_06_Dif_Style_02_Alb.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_06_Dif_Style_02_Illum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_06_Dif_Style_02_Illum.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_06_Dif_Style_02_Metal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_06_Dif_Style_02_Metal.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_06_Dif_Style_02_Norm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_06_Dif_Style_02_Norm.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_07_Dif_Style_02_AO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_07_Dif_Style_02_AO.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_07_Dif_Style_02_Alb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_07_Dif_Style_02_Alb.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_07_Dif_Style_02_Illum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_07_Dif_Style_02_Illum.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_07_Dif_Style_02_Metal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_07_Dif_Style_02_Metal.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_07_Dif_Style_02_Norm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_07_Dif_Style_02_Norm.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_08_Dif_Style_02_AO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_08_Dif_Style_02_AO.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_08_Dif_Style_02_Alb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_08_Dif_Style_02_Alb.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_08_Dif_Style_02_Illum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_08_Dif_Style_02_Illum.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_08_Dif_Style_02_Metal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_08_Dif_Style_02_Metal.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_08_Dif_Style_02_Norm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_08_Dif_Style_02_Norm.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_10_Dif_Style_02_AO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_10_Dif_Style_02_AO.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_10_Dif_Style_02_Alb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_10_Dif_Style_02_Alb.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_10_Dif_Style_02_Illum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_10_Dif_Style_02_Illum.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_10_Dif_Style_02_Metal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_10_Dif_Style_02_Metal.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_10_Dif_Style_02_Norm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_10_Dif_Style_02_Norm.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_11_Dif_Style_02_AO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_11_Dif_Style_02_AO.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_11_Dif_Style_02_Alb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_11_Dif_Style_02_Alb.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_11_Dif_Style_02_Illum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_11_Dif_Style_02_Illum.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_11_Dif_Style_02_Metal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_11_Dif_Style_02_Metal.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_11_Dif_Style_02_Norm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_11_Dif_Style_02_Norm.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_12_Dif_Style_02_AO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_12_Dif_Style_02_AO.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_12_Dif_Style_02_Alb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_12_Dif_Style_02_Alb.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_12_Dif_Style_02_Illum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_12_Dif_Style_02_Illum.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_12_Dif_Style_02_Metal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_12_Dif_Style_02_Metal.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_12_Dif_Style_02_Norm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/HD_Wall_12_Dif_Style_02_Norm.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/_Others.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/_Others/Dark_Illum.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/_Others/Dark_Illum.psd.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/_Others/Glass_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/_Others/Glass_01.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/_Others/Glow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/_Others/Glow.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/_Others/HUD_Screen_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/_Others/HUD_Screen_01.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/_Others/HUD_Screen_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/_Others/HUD_Screen_02.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/_Others/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/_Others/Materials/Glow.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/_Others/Materials/Glow.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/_Others/Materials/Sun.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/_Others/Materials/Sun.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/_Others/Smoke.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/_Others/Smoke.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/_Others/Sun.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/_Others/Sun.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/_Skybox.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/_Skybox/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/_Skybox/Materials/render0.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/_Skybox/Materials/render0.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/_Skybox/Reflection.cubemap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/_Skybox/Reflection.cubemap.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/_Skybox/render0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Textures/_Skybox/render0.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Your_Hown_Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Your_Hown_Prefabs/Corridor_Test_01.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Your_Hown_Prefabs/Corridor_Test_01.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Your_Hown_Prefabs/Corridor_Test_02.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Your_Hown_Prefabs/Corridor_Test_02.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Your_Hown_Prefabs/Simple_Column_01.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Your_Hown_Prefabs/Simple_Column_01.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Your_Hown_Prefabs/Simple_Room_01.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Creepy_Cat/_3D Scifi Kit Starter Kit_HD/_Your_Hown_Prefabs/Simple_Room_01.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/3DGamekitLite/Art/Materials/Effects/Environment/Dropship_Engine_Particle_01_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/3DGamekitLite/Art/Materials/Effects/Environment/Dropship_Engine_Particle_01_Mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/3DGamekitLite/Art/Materials/Effects/Environment/Dropship_Engine_Particle_02_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/3DGamekitLite/Art/Materials/Effects/Environment/Dropship_Engine_Particle_02_Mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/3DGamekitLite/Art/Materials/Effects/Environment/Dropship_Engine_Sparks_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/3DGamekitLite/Art/Materials/Effects/Environment/Dropship_Engine_Sparks_Mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/3DGamekitLite/Localization/EnglishInformationPoints.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/3DGamekitLite/Localization/EnglishInformationPoints.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/3DGamekitLite/Packages/Interactive/Runtime/SendGameCommand.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/3DGamekitLite/Packages/Interactive/Runtime/SendGameCommand.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/3DGamekitLite/Packages/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/3DGamekitLite/Packages/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/3DGamekitLite/Prefabs/Characters/Enemies/Chomper/Chomper.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/3DGamekitLite/Prefabs/Characters/Enemies/Chomper/Chomper.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/3DGamekitLite/Prefabs/Characters/Enemies/Grenadier/Grenadier.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/3DGamekitLite/Prefabs/Characters/Enemies/Grenadier/Grenadier.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/3DGamekitLite/Prefabs/Characters/Enemies/Spitter/Spitter.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/3DGamekitLite/Prefabs/Characters/Enemies/Spitter/Spitter.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/3DGamekitLite/Prefabs/Interactables/Switch.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/3DGamekitLite/Prefabs/Interactables/Switch.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/3DGamekitLite/Prefabs/Interactables/WeaponPedestal.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/3DGamekitLite/Prefabs/Interactables/WeaponPedestal.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/3DGamekitLite/Scripts/Game/Enemies/Chomper/ChomperBehavior.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/3DGamekitLite/Scripts/Game/Enemies/Chomper/ChomperBehavior.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="3ImdtNXCZOvHjltsE0oJmp5qljA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.0.67f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath C:\git\3DKitLite -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\git\3DKitLite" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="PTY_MODE" value="Auto" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.0.67f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath C:\git\3DKitLite -testResults Logs/results.xml -logFile Logs/Editor.log -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\git\3DKitLite" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="PTY_MODE" value="Auto" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="useMixedMode" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="useMixedMode" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Device" type="UnityDevicePlayer" factoryName="UnityAttachToDevicePlayer">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e9c309f-8bc3-4f8d-9404-3f3cf2210709" name="Changes" comment="" />
+      <created>1788373896191</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788373896191</updated>
+      <workItem from="1788373902238" duration="703000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
+    <option name="unityProject" value="true" />
+    <option name="unityProjectFolder" value="true" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
